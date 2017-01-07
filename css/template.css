@@ -4,6 +4,11 @@
 	font-family: 微軟雅黑體,黑體,微軟正黑體;
 }
 
+p{
+	font-size: 20px;
+	font-family: 微軟雅黑體,黑體,微軟正黑體;
+}
+
 .container{
 	width: 760px;
 	margin: 0 auto;
