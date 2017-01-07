@@ -52,3 +52,12 @@ img{
 	border: 1px solid #333;
 
 }
+
+a{
+	text-decoration: none;
+}
+
+ol{
+	
+	margin-left: -15px;
+}
